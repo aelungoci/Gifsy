@@ -14,5 +14,5 @@ Some specifications:
  - Able to store **10 items** at once, and they aren't repeated
  - Using **Local Storage**, so when you update the page, your last search will be right there
 
-### Notes
-[Gifsy](https://docs.google.com/document/d/1Q0_zp4hTQf6tdX268ACCaiMoEI1-RmngaIi9LEMSC1A/edit?usp=sharing)
+
+>[Documentation](https://docs.google.com/document/d/1Q0_zp4hTQf6tdX268ACCaiMoEI1-RmngaIi9LEMSC1A/edit?usp=sharing)
