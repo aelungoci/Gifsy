@@ -1,31 +1,15 @@
 # Gifsy
-<<<<<<< HEAD
+¿Want GIFs?
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.6.
+It has never been as easy as now, thanks to **Gifsy**
 
-## Development server
+[See it here!](https://gifsy.netlify.app/)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## How it works?
+You only have to go to our [website](https://gifsy.netlify.app/), and search for any GIF you want!
 
-## Code scaffolding
+Some specifications:
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
-=======
-GIFs search app
->>>>>>> 1c59e5c060d5ffefdb1af84b9bece2343845fc14
+ - ***Angular app***
+ - Able to store **10 items** at once, and they aren't repeated
+ - Using **Local Storage**, so when you update the page, your last search will be right there
